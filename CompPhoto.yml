@@ -1,4 +1,4 @@
-name: cs6475
+name: CompPhoto
 channels:
 - menpo
 - defaults
