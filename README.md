@@ -5,17 +5,17 @@ This repository contains *ungraded* lab exercises for Computational Photography.
 
 ## Notebooks
 
-### [Image Processing & Analysis](/image_processing)
+### [Image Processing & Analysis](/1-image_processing)
 
 Introduce key parts of the numpy and OpenCV APIs with an emphasis on applications in computational photography.
 
 
-### [Image Frequency Spectra](/frequency_spectra)
+### [Image Frequency Spectra](/2-frequency_spectra)
 
 Explore image processing in the frequency domain.
 
 
-### [Features, Keypoints, & Applications](/feature_keypoints)
+### [Features, Keypoints, & Applications](/3-feature_keypoints)
 
 Implement image keypoint descriptors and experiment with [OpenSfM](https://github.com/mapillary/OpenSfM), a powerful open source tool for computing [structure from motion](https://en.wikipedia.org/wiki/Structure_from_motion).
 
