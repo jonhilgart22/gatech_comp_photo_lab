@@ -15,7 +15,7 @@ Introduce key parts of the numpy and OpenCV APIs with an emphasis on application
 Explore image processing in the frequency domain.
 
 
-### [Features, Keypoints, & Applications](/3-feature_keypoints)
+### [Features, Keypoints, & Applications](/3-features_keypoints)
 
 Implement image keypoint descriptors and experiment with [OpenSfM](https://github.com/mapillary/OpenSfM), a powerful open source tool for computing [structure from motion](https://en.wikipedia.org/wiki/Structure_from_motion).
 
